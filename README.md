@@ -1,2 +1,3 @@
-# Old-Snake
-An old snake game I made at school
+# Old Snake Game
+A very old Snake game I made at school. There are no frameworks, no packages to pack, just one big index.html, a bunch of javascript and style files and jQuery + Bootstrap and TweenMax. All you have to do is open the html file to run it.
+One day I'll write it proper I'm sure...
